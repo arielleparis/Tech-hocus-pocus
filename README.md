@@ -13,5 +13,7 @@ If you would like to get involved with THP development
  - Read the [Contribution Guidelines].
 
 
+Getting started
+
 
 
