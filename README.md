@@ -1,4 +1,4 @@
-# Tech Hocus Pocus &#x1f4bb;&#128008;&#129497;
+# Tech Hocus Pocus &#x1f4bb;&#128008;&#129497; <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
 
 
 Repository for the Tech Hocus Pocus website 
@@ -24,7 +24,18 @@ If you would like to get involved with THP development, follow these instruction
 - Open your terminal, locate the area you will save this project. Then, proceed to paste this command to clone the project repository into your computer's terminal: ``git clone git@github.com:arielleparis/Tech-hocus-pocus.git``
 - After cloning the project, access it by pasting this command: ``cd tech-hocus-pocus``,  then, ``code .`` (this command will open the project to your favorite editor from the terminal)
 - Open the project terminal and proceed to install npm by using ``npm i``
-    - After getting npm updates in your project terminal, you will be ready to write code! :D 
+- Notify administrators of your involvement. They will approve your request after your installation. You WILL NEED the approval BEFORE any ``git push``
+    - After getting completing the above, you will be ready to write code! :D 
+
+*Useful commands:*
+
+- ``git add .`` or ``git add -A`` - use one of these commands to save your work
+- ``git commit -m "put a message here"`` - to track your saved work
+- ``git push origin (put here the name of the branch you are working on and remove the parenthesis)`` -to upload your work in GitHub
+- ``git branch`` - to verify which branch's are available or working on
+- ``git branch -b (put name of a new branch and remove parenthesis)`` - this will create a new branch
+- ``git restore (name of the file you want to restore / don't want to save `` - this will unsaved the document you don't want to push
+
 
 
 *Project Administrators*
@@ -35,4 +46,4 @@ If you would like to get involved with THP development, follow these instruction
 For any questions, concerns, or wanting to participate, contact the administrators.  
 
 
-
+![Tech Hocus Pocus Logo Gif](tech-hocus-pocus\src\src\img\logo.gif)
