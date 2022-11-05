@@ -1,13 +1,13 @@
-# Tech Hocus Pocus
+# Tech Hocus Pocus &#x1f4bb;&#128008;&#129497;
 
 
-Repository for the Tech Hocus Pocus website &#x1f4bb;&#128008; &#129497;
+Repository for the Tech Hocus Pocus website 
 
 
 
-If you would like to get involved with THP development:
+If you would like to get involved with THP development, follow these instructions:
 
- - Join our [discord](https://discord.gg/YmDYEV3cCh)
+ - Join our [Discord](https://discord.gg/YmDYEV3cCh)
  - Join us on at [Polywork](https://www.polywork.com/clubs/tech-hocus-pocus#home)
  - Read the [Code of Conduct].
  - Read the [Contribution Guidelines].
@@ -20,11 +20,19 @@ If you would like to get involved with THP development:
 *Getting started*
 - 
 
+*If you have GitHub and SSH set on your computer:*
+- Open your terminal, locate the area you will save this project. Then, proceed to paste this command to clone the project repository into your computer's terminal: ``git clone git@github.com:arielleparis/Tech-hocus-pocus.git``
+- After cloning the project, access it by pasting this command: ``cd tech-hocus-pocus``,  then, ``code .`` (this command will open the project to your favorite editor from the terminal)
+- Open the project terminal and proceed to install npm by using ``npm i``
+    - After getting npm updates in your project terminal, you will be ready to write code! :D 
 
-Check that you have gh and npm installed
 
+*Project Administrators*
+-
+- Front-end Lead: [Tanya Gonzalez](https://github.com/tanyaleepr) 
+- Back-end Lead: [Arielle Paris](https://github.com/arielleparis) 
 
-$ git clone https://github.com/arielleparis/Tech-hocus-pocus.git
+For any questions, concerns, or wanting to participate, contact the administrators.  
 
 
 

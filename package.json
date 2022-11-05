@@ -1,0 +1,19 @@
+{
+  "name": "tech-hocus-pocus",
+  "version": "1.0.0",
+  "description": "Repository for the Tech Hocus Pocus Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arielleparis/Tech-hocus-pocus.git"
+  },
+  "author": "Tiffany, Arielle, Tanya, and Andy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arielleparis/Tech-hocus-pocus/issues"
+  },
+  "homepage": "https://github.com/arielleparis/Tech-hocus-pocus#readme"
+}
